@@ -1,3 +1,5 @@
+# One of the reputed IT service "Lead To Revenue" Industry assign me above task, I accepted and completed within the deadline.
+
 # REST-API-StructureFor-ProductCatalogue
 
 #Assignment: REST API for a Structured Product Catalogue
@@ -50,8 +52,7 @@ I have created five tables descrition below;
 
 4.ProductRating : table having four colums productId, UserId, RatingOutOff, Comments.
 
-we are performing insert, update, delete and retrive operation as well we can retrive product based on filter i.e. product category.
-
+App is used to manage product catalogue like admin inserting product data but one project is having multiple size, color and stock is based on color, also we can perform update operation. User can view all product as well it can view by filter i.e. product category. User can provide rating and comments to the product and it’s visible to all users with userId which user gave’s the rating.
 
 
 
