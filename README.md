@@ -50,6 +50,8 @@ I have created five tables descrition below;
 
 4.ProductRating : table having four colums productId, UserId, RatingOutOff, Comments.
 
+we are performing insert, update, delete and retrive operation as well we can retrive product based on filter i.e. product category.
+
 
 
 
